@@ -1,5 +1,5 @@
 <h3>Welcome!!!</h3> <br>
-I'm <b>Uday Raj Dara</b>, Fullstack Developer.
+I'm <b>Uday Dara</b>, Fullstack Developer.
 
 <h2>Programming Languages</h2>
 <div style="display:flex">
