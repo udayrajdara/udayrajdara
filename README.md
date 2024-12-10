@@ -1,5 +1,5 @@
 <h3>Welcome!!!</h3> <br>
-<p>I'm <b>Uday Dara</b>, Frontend Developer with React.jS framework.</p>
+<p>I'm <b>Uday Dara</b>, Frontend Developer with React.js framework.</p>
 
 <h2>Programming Languages</h2>
 <div style="display:flex">
