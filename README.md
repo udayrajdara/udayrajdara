@@ -86,6 +86,14 @@ const uday = {
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
       </p>
       <p>Visually accurate, interactive Netflix clone integrating the <strong>TMDB API</strong> for real-time movie & TV show data, dynamic content browsing, and mock user authentication with secure credential management.</p>
+      <p align="center">
+        <a href="https://github.com/udayrajdara/netflix-clone">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://uday-dara-react.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🍕 Zomato UI Clone</h3>
